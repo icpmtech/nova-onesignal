@@ -1,0 +1,14 @@
+{
+  "name": "push-notifications-pwa-netlify",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "netlify dev",
+    "build": "echo 'Nada para buildar'"
+  },
+  "dependencies": {
+    "web-push": "^3.4.5"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
